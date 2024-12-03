@@ -23,6 +23,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: October 16, 2023
 - **File**: [Fast Sampling of Diffusion Models via Operator Learning (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Fast%20Sampling%20of%20Diffusion%20Models%20via%20Operator%20Learning.pdf)
+- **Venue**: ICML 2023
 - **Description**: Introduces a method for accelerating diffusion model sampling using neural operators and temporal convolutions. This approach enables efficient learning of diffusion trajectories while minimizing computational complexity. 
 - **Key Topics**: Diffusion Models
 
@@ -30,6 +31,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: October 30, 2023
 - **File**: [Alleviating Exposure Bias in Diffusion Models through Time-Shift Sampling (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Alleviating%20Exposure%20Bias%20in%20Diffusion%20Models%20through%20Time-Shift%20Sampling.pdf)
+- **Venue**: ICLR 2024
 - **Description**: Proposes a method to reduce exposure bias in diffusion probabilistic models by adjusting time steps during sampling, improving alignment between training and inference distributions.
 - **Key Topics**: Diffusion Models
 
@@ -37,6 +39,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: November 16, 2023
 - **File**: [LCM (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Latent%20Consistency%20Models.pdf)
+- **Venue**: arXiv Preprint
 - **Description**: Introduces LCM for high-resolution image synthesis with few-step inference, leveraging consistency distillation and skipping-step techniques to achieve faster and more efficient generative modeling.
 - **Key Topics**: Diffusion Models
 
@@ -44,6 +47,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: November 30, 2023
 - **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Retentive%20Network.pdf)
+- **Venue**: arXiv Preprint
 - **Description**: Proposes the Retentive Network (RetNet), a foundational architecture for large language models designed to improve training parallelism, reduce inference costs, and maintain strong performance while addressing limitations of Transformers.
 - **Key Topics**: LLMs
 
@@ -51,6 +55,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: May 17, 2024
 - **File**: [Instant-NGP (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/NeRF+Splatting/Instant%20Neural%20Graphics%20Primitives%20with%20a%20Multiresolution%20Hash%20Encoding.pdf)
+- **Venue**: SIGGRAPH 2022
 - **Description**: Presents a method for representing neural graphics primitives using multiresolution hash encoding, enabling efficient, high-quality approximations with compact neural networks.
 - **Key Topics**: NeRF and Splatting
 
@@ -58,6 +63,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: May 29, 2024
 - **File**: [Sora (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/SORA.pdf)
+- **Venue**: arXiv Preprint
 - **Description**: Explores Sora's development as a text-to-video generative AI model, its underlying technologies, applications in various industries, challenges in safe and unbiased generation, and potential future advancements in text-to-video AI.
 - **Key Topics**: Diffusion Models
 
@@ -65,6 +71,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: June 7, 2024
 - **File**: [Neuralangelo (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/NeRF%2BSplatting/Neuralangelo.pdf)
+- **Venue**: CVPR 2023
 - **Description**: Proposes a framework for reconstructing high-fidelity 3D surfaces from RGB images using neural volume rendering, leveraging numerical gradients and coarse-to-fine optimization for detailed and continuous surfaces.
 - **Key Topics**: NeRF and Splatting
 
@@ -72,6 +79,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: June 28, 2024
 - **File**: [FRESCO (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/FRESCO.pdf)
+- **Venue**: CVPR 2024
 - **Description**: Proposes a framework for high-quality, temporally coherent video translation using spatial-temporal correspondences and an inversion-free approach to adapt pre-trained image diffusion models for video editing.
 - **Key Topics**: Diffusion Models
 
@@ -79,6 +87,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: July 26, 2024
 - **File**: [RadSplat (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/NeRF%2BSplatting/RadSplat.pdf)
+- **Venue**: arXiv Preprint
 - **Description**: Introduces a real-time rendering framework combining radiance field priors with Gaussian splatting to achieve high-quality visualization of large-scale 3D scenes at exceptional speed.
 - **Key Topics**: NeRF and Splatting
 
@@ -86,6 +95,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 - **Date**: August 23, 2024
 - **File**: [MVDiffusion++ (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/MVDiffusion%2B%2B.pdf)
+- **Venue**: ECCV 2024
 - **Description**: Proposes a high-resolution multi-view diffusion framework designed to reconstruct 3D objects from single or sparse-view inputs, leveraging correspondence-aware attention and efficient self-attention mechanisms.
 - **Key Topics**: Diffusion Models
 
