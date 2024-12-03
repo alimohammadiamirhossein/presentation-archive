@@ -5,17 +5,17 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 ### Diffusion Models
 1. [Fast Sampling of Diffusion Models via Operator Learning](#fast-sampling-of-diffusion-models-via-operator-learning)
 2. [Alleviating Exposure Bias in Diffusion Models through Time-Shift Sampling](#alleviating-exposure-bias-in-diffusion-models-through-time-shift-sampling)
-3. [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](#-)
-4. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#-)
-5. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](#-)
+3. [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](#latent-consistency-models-synthesizing-high-resolution-images-with-few-step-inference)
+4. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
+5. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](#mvdiffusion-a-dense-high-resolution-multi-view-diffusion-model-for-single-or-sparse-view-3d-object-reconstruction)
 
 ### Large Language Models
 1. [Retentive Network: A Successor to Transformer for Large Language Models](#retentive-network-a-successor-to-transformer-for-large-language-models)
 
 ### NeRF and Splatting
 1. [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](#instant-neural-graphics-primitives-with-a-multiresolution-hash-encoding)
-2. [Neuralangelo: High-Fidelity Neural Surface Reconstruction](#-)
-3. [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](-)
+2. [Neuralangelo: High-Fidelity Neural Surface Reconstruction](#neuralangelo-high-fidelity-neural-surface-reconstruction)
+3. [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](#radsplat-radiance-field-informed-gaussian-splatting-for-robust-real-time-rendering-with-900-fps)
 
 ### Presentation Details
 
