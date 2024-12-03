@@ -8,7 +8,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 3. [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](#latent-consistency-models-synthesizing-high-resolution-images-with-few-step-inference)
 4. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
 5. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](#mvdiffusion-a-dense-high-resolution-multi-view-diffusion-model-for-single-or-sparse-view-3d-object-reconstruction)
-6. [Flow Matching for Generative Modeling](#-)
+6. [Flow Matching for Generative Modeling](#flow-matching-for-generative-modeling)
 
 ### Large Language Models
 1. [Retentive Network: A Successor to Transformer for Large Language Models](#retentive-network-a-successor-to-transformer-for-large-language-models)
