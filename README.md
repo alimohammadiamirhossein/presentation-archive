@@ -36,7 +36,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 
 - **Date**: November 16, 2023
-- **File**: [LCM (PDF)](-)
+- **File**: [LCM (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Latent%20Consistency%20Models.pdf)
 - **Description**: 
 - **Key Topics**: Diffusion Models
 
@@ -57,35 +57,35 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models
 
 - **Date**: May 29, 2024
-- **File**: [Sora (PDF)](-)
+- **File**: [Sora (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/SORA.pdf)
 - **Description**: 
 - **Key Topics**: Diffusion Models
 
 #### Neuralangelo: High-Fidelity Neural Surface Reconstruction
 
 - **Date**: June 7, 2024
-- **File**: [Neuralangelo (PDF)](-)
+- **File**: [Neuralangelo (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/NeRF%2BSplatting/Neuralangelo.pdf)
 - **Description**: 
 - **Key Topics**: NeRF and Splatting
 
 #### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
 
 - **Date**: June 28, 2024
-- **File**: [Retentive Network (PDF)](-)
+- **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/FRESCO.pdf)
 - **Description**: 
 - **Key Topics**: Diffusion Models
 
 #### RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS
 
 - **Date**: July 26, 2024
-- **File**: [RadSplat (PDF)](-)
+- **File**: [RadSplat (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/NeRF%2BSplatting/RadSplat.pdf)
 - **Description**: 
 - **Key Topics**: NeRF and Splatting
 
 #### MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
 
 - **Date**: August 23, 2024
-- **File**: [MVDiffusion++ (PDF)](-)
+- **File**: [MVDiffusion++ (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/MVDiffusion%2B%2B.pdf)
 - **Description**: 
 - **Key Topics**: Diffusion Models
 
