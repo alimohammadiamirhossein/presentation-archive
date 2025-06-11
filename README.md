@@ -51,7 +51,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### Retentive Network: A Successor to Transformer for Large Language Models
 
 - **Date**: November 30, 2023
-- **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Retentive%20Network.pdf)
+- **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/LLMs/Retentive%20Network.pdf)
 - **Venue**: arXiv Preprint
 - **Description**: Proposes the Retentive Network (RetNet), a foundational architecture for large language models designed to improve training parallelism, reduce inference costs, and maintain strong performance while addressing limitations of Transformers.
 - **Key Topics**: LLMs
