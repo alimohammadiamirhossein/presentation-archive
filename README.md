@@ -1,6 +1,7 @@
 # Presentation Archive
 
 Welcome to my presentation archive! This repository contains slides and notes from various presentations I have delivered on topics such as Diffusion Models and NeRf. Each presentation is accompanied by a brief summary of its content and objectives. Feel free to explore, and I hope these resources provide insights and value!
+> 📽 **Note**: To play embedded videos in the PDF slides, please use **Adobe Acrobat Reader** or another compatible viewer that supports multimedia content.
 
 ### Diffusion Models
 1. [Fast Sampling of Diffusion Models via Operator Learning](#fast-sampling-of-diffusion-models-via-operator-learning)
