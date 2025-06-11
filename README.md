@@ -1,7 +1,13 @@
 # Presentation Archive
 
 Welcome to my presentation archive! This repository contains slides and notes from various presentations I have delivered on topics such as Diffusion Models and NeRf. Each presentation is accompanied by a brief summary of its content and objectives. Feel free to explore, and I hope these resources provide insights and value!
+
+## How to Use This Repository
+
+Each presentation can be accessed via the links provided below. You can download the files to view the slides and review the content. 
 > 📽 **Note**: To play embedded videos in the PDF slides, please use **Adobe Acrobat Reader** or another compatible viewer that supports multimedia content.
+
+If you're interested in specific topics or want to dive deeper into any particular presentation, feel free to reach out or check the [Resources section](#resources).
 
 ### Diffusion Models
 1. [Fast Sampling of Diffusion Models via Operator Learning](#fast-sampling-of-diffusion-models-via-operator-learning)
@@ -21,6 +27,8 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 ### Physics-Based Generative Models
 1. [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](#force-prompting-video-generation-models-can-learn-and-generalize-physics-based-control-signals)
+
+---
 
 ### Presentation Details
 
@@ -123,10 +131,6 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 ---
 
-## How to Use This Repository
-
-Each presentation can be accessed via the links provided above. You can download the files to view the slides and review the content. If you're interested in specific topics or want to dive deeper into any particular presentation, feel free to reach out or check the [Resources section](#resources).
-
 ## Resources
 
 Here are some additional resources related to the topics covered in these presentations:
@@ -135,6 +139,7 @@ Here are some additional resources related to the topics covered in these presen
 
 
 ---
+
 
 ## Feedback and Contributions
 
