@@ -114,7 +114,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals
 
 - **Date**: June 11, 2025
-- **File**: [Force Prompting (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/ForcePrompting.pdf)
+- **File**: [Force Prompting (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Physics/ForcePrompting.pdf)
 - **Venue**: arXiv Preprint 2025
 - **Description**: : Proposes Force Prompting, a method for controlling video diffusion models using localized and global force inputs. Trained on limited synthetic data, the model generalizes to diverse objects and scenes without 3D assets, enabling intuitive, physics-aware video generation with emergent mass understanding.
 - **Key Topics**: Video Generation, Diffusion Models, Physics-based Control
