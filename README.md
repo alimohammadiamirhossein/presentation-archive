@@ -6,9 +6,8 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 1. [Fast Sampling of Diffusion Models via Operator Learning](#fast-sampling-of-diffusion-models-via-operator-learning)
 2. [Alleviating Exposure Bias in Diffusion Models through Time-Shift Sampling](#alleviating-exposure-bias-in-diffusion-models-through-time-shift-sampling)
 3. [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](#latent-consistency-models-synthesizing-high-resolution-images-with-few-step-inference)
-4. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
-5. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](#mvdiffusion-a-dense-high-resolution-multi-view-diffusion-model-for-single-or-sparse-view-3d-object-reconstruction)
-6. [Flow Matching for Generative Modeling](#flow-matching-for-generative-modeling)
+4. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](#mvdiffusion-a-dense-high-resolution-multi-view-diffusion-model-for-single-or-sparse-view-3d-object-reconstruction)
+5. [Flow Matching for Generative Modeling](#flow-matching-for-generative-modeling)
 
 ### Large Language Models
 1. [Retentive Network: A Successor to Transformer for Large Language Models](#retentive-network-a-successor-to-transformer-for-large-language-models)
@@ -17,6 +16,10 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 1. [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](#instant-neural-graphics-primitives-with-a-multiresolution-hash-encoding)
 2. [Neuralangelo: High-Fidelity Neural Surface Reconstruction](#neuralangelo-high-fidelity-neural-surface-reconstruction)
 3. [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](#radsplat-radiance-field-informed-gaussian-splatting-for-robust-real-time-rendering-with-900-fps)
+
+### Video Models
+1. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
+2. [FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation](#flowmo-variance-based-flow-guidance-for-coherent-motion-in-video-generation)
 
 ### Presentation Details
 
@@ -79,7 +82,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
 
 - **Date**: June 28, 2024
-- **File**: [FRESCO (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/FRESCO.pdf)
+- **File**: [FRESCO (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Video/FRESCO.pdf)
 - **Venue**: CVPR 2024
 - **Description**: Proposes a framework for high-quality, temporally coherent video translation using spatial-temporal correspondences and an inversion-free approach to adapt pre-trained image diffusion models for video editing.
 - **Key Topics**: Diffusion Models
@@ -107,6 +110,14 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 - **Venue**: ICLR 2023
 - **Description**: Proposes Flow Matching as an efficient training framework for continuous normalizing flows, leveraging vector fields of fixed probability paths to simplify training and sampling while achieving state-of-the-art generative modeling.
 - **Key Topics**: Diffusion Models
+
+#### FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation
+
+- **Date**: June 20, 2025  
+- **File**: [FlowMo (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Video/FlowMo.pdf)
+- **Venue**: arXiv Preprint 
+- **Description**: Presents FlowMo, a training-free method that improves motion coherence in text-to-video generation by leveraging variance-based flow guidance. The approach extracts temporal representations directly from pre-trained flow matching models without requiring additional training or external inputs.   
+- **Key Topics**: Video Generation, Flow Matching, Temporal Coherence
 
 ---
 
