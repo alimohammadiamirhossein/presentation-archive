@@ -2,6 +2,13 @@
 
 Welcome to my presentation archive! This repository contains slides and notes from various presentations I have delivered on topics such as Diffusion Models and NeRf. Each presentation is accompanied by a brief summary of its content and objectives. Feel free to explore, and I hope these resources provide insights and value!
 
+## How to Use This Repository
+
+Each presentation can be accessed via the links provided below. You can download the files to view the slides and review the content. 
+> 📽 **Note**: To play embedded videos in the PDF slides, please use **Adobe Acrobat Reader** or another compatible viewer that supports multimedia content.
+
+If you're interested in specific topics or want to dive deeper into any particular presentation, feel free to reach out or check the [Resources section](#resources).
+
 ### Diffusion Models
 1. [Fast Sampling of Diffusion Models via Operator Learning](#fast-sampling-of-diffusion-models-via-operator-learning)
 2. [Alleviating Exposure Bias in Diffusion Models through Time-Shift Sampling](#alleviating-exposure-bias-in-diffusion-models-through-time-shift-sampling)
@@ -50,7 +57,7 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 #### Retentive Network: A Successor to Transformer for Large Language Models
 
 - **Date**: November 30, 2023
-- **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Diffusion/Retentive%20Network.pdf)
+- **File**: [Retentive Network (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/LLMs/Retentive%20Network.pdf)
 - **Venue**: arXiv Preprint
 - **Description**: Proposes the Retentive Network (RetNet), a foundational architecture for large language models designed to improve training parallelism, reduce inference costs, and maintain strong performance while addressing limitations of Transformers.
 - **Key Topics**: LLMs
@@ -121,10 +128,6 @@ Welcome to my presentation archive! This repository contains slides and notes fr
 
 ---
 
-## How to Use This Repository
-
-Each presentation can be accessed via the links provided above. You can download the files to view the slides and review the content. If you're interested in specific topics or want to dive deeper into any particular presentation, feel free to reach out or check the [Resources section](#resources).
-
 ## Resources
 
 Here are some additional resources related to the topics covered in these presentations:
@@ -133,6 +136,7 @@ Here are some additional resources related to the topics covered in these presen
 
 
 ---
+
 
 ## Feedback and Contributions
 
