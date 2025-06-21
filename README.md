@@ -24,6 +24,9 @@ If you're interested in specific topics or want to dive deeper into any particul
 2. [Neuralangelo: High-Fidelity Neural Surface Reconstruction](#neuralangelo-high-fidelity-neural-surface-reconstruction)
 3. [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](#radsplat-radiance-field-informed-gaussian-splatting-for-robust-real-time-rendering-with-900-fps)
 
+### Physics-Based Generative Models
+1. [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](#force-prompting-video-generation-models-can-learn-and-generalize-physics-based-control-signals)
+
 ### Video Models
 1. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
 2. [FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation](#flowmo-variance-based-flow-guidance-for-coherent-motion-in-video-generation)
@@ -117,6 +120,13 @@ If you're interested in specific topics or want to dive deeper into any particul
 - **Venue**: ICLR 2023
 - **Description**: Proposes Flow Matching as an efficient training framework for continuous normalizing flows, leveraging vector fields of fixed probability paths to simplify training and sampling while achieving state-of-the-art generative modeling.
 - **Key Topics**: Diffusion Models
+
+#### Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals
+- **Date**: June 11, 2025
+- **File**: [Force Prompting (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Physics/ForcePrompting.pdf)
+- **Venue**: arXiv Preprint 2025
+- **Description**: : Proposes Force Prompting, a method for controlling video diffusion models using localized and global force inputs. Trained on limited synthetic data, the model generalizes to diverse objects and scenes without 3D assets, enabling intuitive, physics-aware video generation with emergent mass understanding.
+- **Key Topics**: Video Generation, Diffusion Models, Physics-based Control
 
 #### FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation
 
