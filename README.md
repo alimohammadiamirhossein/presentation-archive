@@ -31,6 +31,9 @@ If you're interested in specific topics or want to dive deeper into any particul
 1. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
 2. [FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation](#flowmo-variance-based-flow-guidance-for-coherent-motion-in-video-generation)
 
+### 4D
+1. [4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation](#)
+
 ### Presentation Details
 
 #### Fast Sampling of Diffusion Models via Operator Learning
@@ -135,6 +138,14 @@ If you're interested in specific topics or want to dive deeper into any particul
 - **Venue**: arXiv Preprint 
 - **Description**: Presents FlowMo, a training-free method that improves motion coherence in text-to-video generation by leveraging variance-based flow guidance. The approach extracts temporal representations directly from pre-trained flow matching models without requiring additional training or external inputs.   
 - **Key Topics**: Video Generation, Flow Matching, Temporal Coherence
+
+#### 4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation
+
+- **Date**: July 18, 2025
+- **File**: [4Real-Video-V2 (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/4D/4Real-Video-V2.pdf)
+- **Venue**: arXiv Preprint
+- **Description**: Proposes 4Real-Video-V2, a parameter-efficient 4D scene generation method that uses fused view-time attention and a feedforward reconstructor for text-to-4D video generation. Unlike prior methods, it requires no extra weights beyond a pre-trained video model and replaces explicit optimization with fast feedforward 3D Gaussian splatting. 
+- **Key Topics**: 4D Scene Generation, Text-to-Video, Feedforward Reconstruction, Dynamic Gaussians
 
 ---
 
