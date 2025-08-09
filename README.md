@@ -26,6 +26,7 @@ If you're interested in specific topics or want to dive deeper into any particul
 
 ### Physics-Based Generative Models
 1. [Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](#force-prompting-video-generation-models-can-learn-and-generalize-physics-based-control-signals)
+2. [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](#geometry-forcing-marrying-video-diffusion-and-3d-representation-for-consistent-world-modeling)
 
 ### Video Models
 1. [FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation](#fresco-spatial-temporal-correspondence-for-zero-shot-video-translation)
