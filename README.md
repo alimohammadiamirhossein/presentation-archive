@@ -147,6 +147,14 @@ If you're interested in specific topics or want to dive deeper into any particul
 - **Description**: Proposes 4Real-Video-V2, a parameter-efficient 4D scene generation method that uses fused view-time attention and a feedforward reconstructor for text-to-4D video generation. Unlike prior methods, it requires no extra weights beyond a pre-trained video model and replaces explicit optimization with fast feedforward 3D Gaussian splatting. 
 - **Key Topics**: 4D Scene Generation, Text-to-Video, Feedforward Reconstruction, Dynamic Gaussians
 
+#### Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling
+
+- **Date**: August 8, 2025
+- **File**: [Geometry Forcing (PDF)](https://github.com/alimohammadiamirhossein/presentation-archive/blob/main/presentations/Physics/geometry_forcing.pdf)
+- **Venue**: arXiv Preprint
+- **Description**: Introduces Geometry Forcing (GF), a method that enhances the 3D consistency of video diffusion models by aligning their intermediate representations with features from a pretrained 3D foundation model. GF employs two complementary objectives—Angular Alignment for directional consistency and Scale Alignment for magnitude preservation, allowing the model to internalize 3D-aware structural information. 
+- **Key Topics**: Video Diffusion Models, 3D Consistency, World Modeling
+
 ---
 
 ## Resources
